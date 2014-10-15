@@ -28,6 +28,6 @@
 <footer onload="image()">
     <br>
     <a id="madjake45" href="http://madjake45.com">
-    Made with <img id="madjake45" src="http://madjake45.com/heart.png" alt="Heart" title="Love"> and <img id="madjake45" src="http://madjake45.com/turtle.png" alt="madjake45" title="Turtles"></a>
+    Made with <img id="madjake45" src="http://madjake45.com/heart.png" alt="Heart" class=".tooltip" title="Love"> and <img id="madjake45" src="http://madjake45.com/turtle.png" alt="madjake45" class=".tooltip" title="Turtles"></a>
 </footer>
 </html>
