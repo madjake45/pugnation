@@ -6,7 +6,7 @@ All the files to pugnation. This also has a webhook to auto update the site on c
 
 To add more images create a pull request and then open the the Image.js file
 
-Once you havefound the array with all the image links:
+Once you have found the array with all the image links:
 1. Add a comma to the end of the last link.
 2. Add a new line.
 3. Add your link in "" marks and then leave it at that if you are only adding one link.
