@@ -28,7 +28,8 @@ var img = [
     "http://i.dailymail.co.uk/i/pix/2013/06/13/article-2340930-1A4BC38A000005DC-21_634x410.jpg",
     "http://www.funnypugpictures.co.uk//wp-content/uploads/2014/01/harry-potter-pug-costume.jpg",
     "http://i.huffpost.com/gen/808608/thumbs/o-PUG-AVENGERS-facebook.jpg",
-    "http://media-cache-ec0.pinimg.com/736x/aa/7b/7f/aa7b7fc155728d3dd7701ceb055b0dba.jpg"
+    "http://media-cache-ec0.pinimg.com/736x/aa/7b/7f/aa7b7fc155728d3dd7701ceb055b0dba.jpg",
+    "http://4.bp.blogspot.com/-guGTxHoKteU/UIaHmQPiw7I/AAAAAAAAB28/Vh5VQPbFz_A/s400/WeddingPug.jpg"
 
 
 ];
