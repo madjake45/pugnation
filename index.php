@@ -21,13 +21,13 @@
     <H1 align="Center">ATTACK OF THE PUGS!!!</H1>
 
     <div id="pug">
-        <img id="pugimage" src="http://madjake45.com/turtle.png" alt="PUGS!!!"/>
+        <img id="pugimage" src="https://madjake45.me/turtle.png" alt="PUGS!!!"/>
     </div>
 </div>
     </body>
 <footer onload="image()">
     <br>
-    <a id="madjake45" href="http://madjake45.com">
-    Made with <img id="madjake45" src="http://madjake45.com/heart.png" alt="Heart" class=".tooltip" title="Love"> and <img id="madjake45" src="http://madjake45.com/turtle.png" alt="madjake45" class=".tooltip" title="Turtles"></a>
+    <a id="madjake45" href="https://madjake45.me">
+    Made with <img id="madjake45" src="https://madjake45.me/heart.png" alt="Heart" class=".tooltip" title="Love"> and <img id="madjake45" src="https://madjake45.me/turtle.png" alt="madjake45" class=".tooltip" title="Turtles"></a>
 </footer>
 </html>
